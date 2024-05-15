@@ -1,4 +1,4 @@
 # demo
 <br>
-Author - Tharun Kumar 
+<h1>Author - Tharun Kumar Chilukuri</h1>
 
